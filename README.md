@@ -17,7 +17,7 @@ Bamazon is a Node CLI Storefront with a mySQL backend whereby users can select a
 
 ## Instructions:
 
-To use, simply type <strong>"node bamazonCustomer.js"<\strong> & hit <strong>ENTER</strong>. A table will appear displaying currently available product inventory & pricing. The user is then prompted to select: 
+To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENTER</strong>. A table will appear displaying currently available product inventory & pricing. The user is then prompted to select: 
  
             1. The "item_id" of the product they would like to purchase
             
