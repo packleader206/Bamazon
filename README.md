@@ -24,7 +24,7 @@ To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENT
             2. Quantity
             
  #### Example
- Below, you can see that the user is presented with the inventory of the store's products.  If the selected item and quantity are avaiable, user's order is fulfilled and he is given the total cost of the order.
+ Below, you can see that the user is presented with the inventory of the store's products.  If the selected item and quantity are avaiable, the user's order is fulfilled and they are given the total cost of the order.
  
  <img src="https://packleader206.github.io/bamazon/images/successful_order.jpg" alt="sucessful_order Screenshot">
  
