@@ -2,7 +2,7 @@
 
 ## Overview:
 
-Bamazon is a Node CLI Storefront with a mySQL backend whereby users can select and purchase products from inventory. The app will take user input and determine if requested quantity is available to fulfill the order.  If an order is placed, the app will dynamically update the inventory in the SQL database.
+Bamazon is a Node CLI Storefront with a mySQL backend whereby users can select and purchase products from inventory. The app will take user input and determine if requested quantity is available to fulfill the order.  If an order is placed successfully, the app will dynamically update the inventory in the SQL database.
 
 ## Technologies Used:
 - Javascript
