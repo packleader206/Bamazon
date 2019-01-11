@@ -26,7 +26,7 @@ To use, simply type "node bamazonCustomer.js" & hit ENTER. A table will appear d
  #### Example
  Below, you can see that the user is presented with the inventory of the store's products.  If the selected item and quantity are avaiable, user's order is fulfilled and he is given the total cost of the order.
  
- <img src="https://packleader206.github.io/bamazon/images/successful_order.png" alt="sucessful_order Screenshot">
+ <img src="https://packleader206.github.io/bamazon/images/successful_order.jpg" alt="sucessful_order Screenshot">
  
  #### Example
  As you can see from the screenshot, the inventory saved in the SQL database is dynamically changed when a customer order has been successfully placed. Notice that the stock_quantity for 'Deordorant' (item_id 5) has decreased in stock from 95 to 89, because 6 Deodorants were purchased on the previous order.
