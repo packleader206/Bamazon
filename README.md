@@ -19,9 +19,9 @@ Bamazon is a Node CLI Storefront with a mySQL backend whereby users can select a
 
 To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENTER</strong>. A table will appear displaying currently available product inventory & pricing. The user is then prompted to select: 
  
-            1. The <strong>item id</strong> of the product they would like to purchase
+            1. The item id of the product they would like to purchase
             
-            2. The <strong>quantity</strong> of the product they would like to purchase
+            2. The quantity of the product they would like to purchase
             
  #### Example:
  Below, you can see that the user is presented with the inventory of the store's products.  If the selected item and quantity are avaiable, the user's order is fulfilled and they are given the total cost of the order.
