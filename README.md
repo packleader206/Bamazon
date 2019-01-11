@@ -29,7 +29,7 @@ To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENT
  <img src="https://packleader206.github.io/bamazon/images/successful_order.jpg" alt="sucessful_order Screenshot">
  
  #### Example:
- As you can see from the screenshot, the inventory saved in the SQL database is dynamically changed when a customer order has been successfully placed. Notice that the stock_quantity for 'Deordorant' (item_id 5) has decreased in stock from 95 to 89, because 6 units were purchased on the previous order.
+ As you can see from the screenshot below, the inventory saved in the SQL database is dynamically changed when a customer order has been successfully placed. Notice that the stock_quantity for 'Deordorant' (item id 5) has decreased in stock from 95 to 89, because 6 units were purchased on the previous order.
  
  <img src="https://packleader206.github.io/bamazon/images/updated_inventory.png" alt="updated_inventory Screenshot">
  
