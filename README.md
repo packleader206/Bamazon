@@ -31,7 +31,7 @@ To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENT
  
  <img src="https://packleader206.github.io/Bamazon/images/updated_inventory.png" alt="updated_inventory Screenshot">
  
- The app will notify the user if he/she requests to purchase a quantity of an item that the current inventory cannot fulfill. 
+ #### The app will notify the user if he/she requests to purchase a quantity of an item that the current inventory cannot fulfill. 
  
  <img src="https://packleader206.github.io/Bamazon/images/insufficient_quantity.png" alt="insufficient_quantity Screenshot">
  
