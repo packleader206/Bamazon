@@ -25,7 +25,7 @@ If you do not have MySQL database already set up on your machine, visit the <a h
 
 <strong>Once you have the Bamazon database set up, run the following commands at your command prompt:</strong>
 
-           1. git clone https://github.com/packleader/Bamazon.git ENTER
+           1. git clone https://github.com/packleader206/Bamazon.git ENTER
            
            2. cd bamazon ENTER
            
