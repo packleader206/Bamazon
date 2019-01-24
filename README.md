@@ -20,7 +20,7 @@ Bamazon is a Node CLI Storefront with a mySQL backend whereby users can select a
 To run this application, you will need MySQL and Node JS installed on your computer.
 
 <strong>MySQL Database Setup</strong>
-If you do not have MySQL database already set up on your machine, visit the <a href="https://dev.mysql.com/doc/refman/5.6/en/installing.html>MySQL installation page</a> to install the version you need for your operating system. Once you have MySQL installed, you will be able to create the Bamazon database and the products table with the SQL code found in bamazon.sql. Run this code inside your MySQL client (like Sequel Pro or MySQL Workbench) to populate the database, then you will be ready to proceed with running the Bamazon customer and manager interfaces.
+If you do not have MySQL database already set up on your machine, visit the <a href="https://dev.mysql.com/doc/refman/5.6/en/installing.html">MySQL installation page</a> to install the version you need for your operating system. Once you have MySQL installed, you will be able to create the Bamazon database and the products table with the SQL code found in bamazon.sql. Run this code inside your MySQL client (like Sequel Pro or MySQL Workbench) to populate the database, then you will be ready to proceed with running the Bamazon customer and manager interfaces.
 
 To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENTER</strong>. A table will appear displaying currently available product inventory & pricing. The user is then prompted to select: 
  
