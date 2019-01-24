@@ -19,9 +19,19 @@ Bamazon is a Node CLI Storefront with a mySQL backend whereby users can select a
 
 To run this application, you will need <a href="https://dev.mysql.com/doc/refman/5.6/en/installing.html">MySQL</a> and <a href="https://nodejs.org/en/download/">Node JS</a> installed on your computer.
 
-<strong>MySQL Database Setup</strong>
+<strong>MySQL Database Setup:</strong>
 
-If you do not have MySQL database already set up on your machine, visit the <a href="https://dev.mysql.com/doc/refman/5.6/en/installing.html">MySQL installation page</a> to install the version you need for your operating system. Once you have MySQL installed, you will be able to create the Bamazon database and the products table with the SQL code found in bamazon.sql. Run this code inside your MySQL client (like Sequel Pro or MySQL Workbench) to populate the database, then you will be ready to proceed with running the Bamazon customer and manager interfaces.
+If you do not have MySQL database already set up on your machine, visit the <a href="https://dev.mysql.com/doc/refman/5.6/en/installing.html">MySQL installation page</a> to install the correct version for your operating system. Once you have MySQL installed, you will need to create the Bamazon database with the SQL code found here in <a href="https://github.com/packleader206/Bamazon/blob/master/bamazon.sql">bamazon.sql</a> file. Run this code inside your MySQL client to create the database.  If you do not already have a mySQL client, you can <a href="https://dev.mysql.com/downloads/workbench/">download MySQL Workench here</a>.
+
+<strong>Once you have the Bamazon database set up, run the following commands at your command prompt:</strong>
+
+           1. git clone https://github.com/packleader/Bamazon.git ENTER
+           
+           2. cd bamazon ENTER
+           
+           3. npm install ENTER
+           
+## Running the App
 
 To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENTER</strong>. A table will appear displaying currently available product inventory & pricing. The user is then prompted to select: 
  
