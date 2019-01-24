@@ -25,11 +25,11 @@ If you do not have MySQL database already set up on your machine, visit the <a h
 
 Once you have the Bamazon database set up, run the following commands at your command prompt:
 
-           1. git clone https://github.com/packleader/Bamazon.git <strong>ENTER</strong>
+           1. git clone https://github.com/packleader/Bamazon.git ENTER
            
-           2. cd bamazon <strong>ENTER</strong>
+           2. cd bamazon ENTER
            
-           3. npm install <strong>ENTER</strong>
+           3. npm install ENTER
            
 ## Running the App
 
