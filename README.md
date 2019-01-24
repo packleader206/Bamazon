@@ -31,7 +31,7 @@ If you do not have MySQL database already set up on your machine, visit the <a h
            
            3. npm install ENTER
            
-## Running the App
+## Running the App:
 
 To use, simply type <strong>"node bamazonCustomer.js"</strong> & hit <strong>ENTER</strong>. A table will appear displaying currently available product inventory & pricing. The user is then prompted to select: 
  
