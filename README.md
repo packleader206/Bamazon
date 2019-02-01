@@ -21,7 +21,7 @@ To run this application, you will need <a href="https://nodejs.org/en/download/"
 
 <strong>MySQL Database Setup:</strong>
 
-Once you have MySQL installed, you will need to create the Bamazon database with the SQL code found here in the <a href="https://github.com/packleader206/Bamazon/blob/master/bamazon.sql">bamazon.sql</a> file. Run this code inside your MySQL client to create the database.  If you do not already have a mySQL client, you can <a href="https://dev.mysql.com/downloads/workbench/">download MySQL Workench here</a>.
+Once you have MySQL installed, you will need to create the Bamazon database with the SQL code found here in the <a href="https://github.com/packleader206/Bamazon/blob/master/bamazon.sql">bamazon.sql</a> file. Run this code inside your MySQL client to create the database.  If you do not already have a mySQL client, you can <a href="https://dev.mysql.com/downloads/workbench/">download MySQL Workbench here</a>.
 
 <strong>Once you have the Bamazon database set up, run the following commands at your command prompt:</strong>
 
@@ -30,6 +30,8 @@ Once you have MySQL installed, you will need to create the Bamazon database with
            2. cd bamazon ENTER
            
            3. npm install ENTER
+           
+ <strong>Then, open up the file named "bamazonCustomer.js".  Make sure the "port" (line 13) and "password" (line 17) are correctly set for use with the SQL database you set up.  Once the "port" and "password" are set to match your database, save the file.  You are now ready to run the App! 
            
 ## Running the App:
 
